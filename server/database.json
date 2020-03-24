@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tasty Fresh Computer",
+      "description": "Mollitia quis corporis minus. Corporis minima quisquam quia non perspiciatis. Magnam sunt ut soluta quia commodi. Aliquid provident a nam atque. Nulla eveniet aliquam laudantium aperiam fugit debitis. Et qui ipsa sit doloribus omnis accusantium vel itaque aspernatur.",
+      "price": "415.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 46545
+    },
+    {
+      "id": 2,
+      "name": "Ergonomic Metal Shoes",
+      "description": "Aut et in excepturi accusamus est commodi. Quibusdam aspernatur eos.",
+      "price": "866.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 90608
+    },
+    {
+      "id": 3,
+      "name": "Intelligent Metal Shirt",
+      "description": "Voluptates a facere. Doloribus natus sint inventore. Consequatur alias autem exercitationem magnam et animi ut odio voluptates.",
+      "price": "363.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 44946
+    },
+    {
+      "id": 4,
+      "name": "Tasty Plastic Shoes",
+      "description": "Voluptatem illum numquam qui est omnis eligendi. Unde id dolor blanditiis consectetur enim sit ipsum maiores suscipit.",
+      "price": "983.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 92275
+    },
+    {
+      "id": 5,
+      "name": "Incredible Steel Gloves",
+      "description": "Totam eveniet ut. Ut porro rerum et aliquam esse maxime voluptatem.",
+      "price": "397.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 306
+    }
+  ]
+}
